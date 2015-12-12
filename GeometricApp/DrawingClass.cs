@@ -50,7 +50,11 @@ namespace GeometricApp
             points.Add("C", new Point(0, 0));
             points.Add("A", new Point(Convert.ToInt32(Math.Cos(angles[0]) * scale * sides[1]), Convert.ToInt32(Math.Sin(angles[0])* scale * sides[1])));
             points.Add("B", new Point(Convert.ToInt32(sides[2] * scale), 0));
+<<<<<<< HEAD
             //CentralizeTrianglePoints(points);
+=======
+            CentralizeTrianglePoints(points);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             return points;
         }
 

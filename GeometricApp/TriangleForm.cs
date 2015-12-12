@@ -69,6 +69,7 @@ namespace GeometricApp
             return result;
         }
 
+<<<<<<< HEAD
         public void RedrawHight()
         {
 
@@ -85,6 +86,8 @@ namespace GeometricApp
             dc.DrawHight(g, hightPoints[0], hightPoints[1]);
         }
 
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
         private void Redraw_Button_Click(object sender, EventArgs e)
         {
             g.Clear(Color.White);
@@ -147,8 +150,16 @@ namespace GeometricApp
                 sidesList[i].Text = trig.GetSides[i].ToString();
                 anglesList[i].Text = trig.GetAngles[i].ToString();
             }
+<<<<<<< HEAD
             AreaTextbox.Text = trig.GetArea.ToString();
             PerimetrTextbox.Text = trig.GetPerimetr.ToString();           
+=======
+            AreaTextbox.Text = Math.Round(trig.GetArea, 3).ToString();
+            PerimetrTextbox.Text = trig.GetPerimetr.ToString();
+            SmallRadius_textBox.Text = trig.GetIncircleRadius.ToString();
+            LargeRadius_textBox.Text = trig.GetCircumCircleRadius.ToString();
+            AreaOfBigCircle_textBox.Text = trig.           
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
         }
 }
 }

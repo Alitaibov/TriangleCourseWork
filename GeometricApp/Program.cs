@@ -16,7 +16,11 @@ namespace GeometricApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new ChooseAct());
+=======
+            Application.Run(new TriangleForm());
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
         }
     }
 }

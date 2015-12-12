@@ -46,12 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="ChooseAct.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ChooseAct.Designer.cs">
       <DependentUpon>ChooseAct.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
     <Compile Include="DrawingClass.cs" />
     <Compile Include="Figures.cs" />
     <Compile Include="Program.cs" />
@@ -59,21 +62,27 @@
     <Compile Include="SideOrAnglePanel.cs">
       <SubType>Component</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="TaskForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TaskForm.Designer.cs">
       <DependentUpon>TaskForm.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
     <Compile Include="TriangleForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TriangleForm.Designer.cs">
       <DependentUpon>TriangleForm.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <EmbeddedResource Include="ChooseAct.resx">
       <DependentUpon>ChooseAct.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -83,9 +92,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <EmbeddedResource Include="TaskForm.resx">
       <DependentUpon>TaskForm.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
     <EmbeddedResource Include="TriangleForm.resx">
       <DependentUpon>TriangleForm.cs</DependentUpon>
     </EmbeddedResource>

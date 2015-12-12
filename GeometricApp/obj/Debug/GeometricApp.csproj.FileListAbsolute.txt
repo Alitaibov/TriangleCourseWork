@@ -35,6 +35,7 @@ C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csprojRes
 C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.Properties.Resources.resources
 C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.TriangleForm.resources
 C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\GeometricApp\bin\Debug\GeometricApp.exe.config
 C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\GeometricApp\obj\Debug\GeometricApp.exe
 C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\GeometricApp\obj\Debug\GeometricApp.pdb
@@ -46,3 +47,5 @@ C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\Geomet
 C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\GeometricApp\obj\Debug\GeometricApp.csproj.GenerateResource.Cache
 C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\GeometricApp\obj\Debug\GeometricApp.ChooseAct.resources
 C:\Users\buhgalter\AppData\Roaming\Skype\My Skype Received Files\Triangle\GeometricApp\obj\Debug\GeometricApp.TaskForm.resources
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c

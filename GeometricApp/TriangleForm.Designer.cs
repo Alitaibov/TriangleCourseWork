@@ -29,12 +29,15 @@
         private void InitializeComponent()
         {
             this.pictureBox = new System.Windows.Forms.PictureBox();
+<<<<<<< HEAD
             this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.checkBox4 = new System.Windows.Forms.CheckBox();
             this.AddHight_Button = new System.Windows.Forms.Button();
             this.AddMedian_Button = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.AddBisector_Button = new System.Windows.Forms.Button();
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.label7 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.AB_Side_textBox = new System.Windows.Forms.TextBox();
@@ -63,7 +66,18 @@
             this.BAC_Angle_textBox = new System.Windows.Forms.TextBox();
             this.Redraw_Button = new System.Windows.Forms.Button();
             this.Calculate = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.sideName_comboBox = new System.Windows.Forms.ComboBox();
+=======
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.SmallRadius_textBox = new System.Windows.Forms.TextBox();
+            this.LargeRadius_textBox = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.AreaOfSmallCircle_textBox = new System.Windows.Forms.TextBox();
+            this.AreaOfBigCircle_textBox = new System.Windows.Forms.TextBox();
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.sides_flowLayoutPanel.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
@@ -86,6 +100,7 @@
             this.pictureBox.TabIndex = 0;
             this.pictureBox.TabStop = false;
             // 
+<<<<<<< HEAD
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
@@ -147,6 +162,12 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(385, 179);
+=======
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(385, 16);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(95, 13);
             this.label7.TabIndex = 21;
@@ -172,7 +193,11 @@
             // label8
             // 
             this.label8.AutoSize = true;
+<<<<<<< HEAD
             this.label8.Location = new System.Drawing.Point(577, 179);
+=======
+            this.label8.Location = new System.Drawing.Point(566, 16);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(37, 13);
             this.label8.TabIndex = 28;
@@ -181,7 +206,11 @@
             // label10
             // 
             this.label10.AutoSize = true;
+<<<<<<< HEAD
             this.label10.Location = new System.Drawing.Point(546, 89);
+=======
+            this.label10.Location = new System.Drawing.Point(391, 179);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(20, 13);
             this.label10.TabIndex = 32;
@@ -190,7 +219,11 @@
             // label11
             // 
             this.label11.AutoSize = true;
+<<<<<<< HEAD
             this.label11.Location = new System.Drawing.Point(546, 64);
+=======
+            this.label11.Location = new System.Drawing.Point(392, 153);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(20, 13);
             this.label11.TabIndex = 31;
@@ -198,14 +231,22 @@
             // 
             // AreaTextbox
             // 
+<<<<<<< HEAD
             this.AreaTextbox.Location = new System.Drawing.Point(572, 86);
+=======
+            this.AreaTextbox.Location = new System.Drawing.Point(417, 176);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.AreaTextbox.Name = "AreaTextbox";
             this.AreaTextbox.Size = new System.Drawing.Size(53, 20);
             this.AreaTextbox.TabIndex = 30;
             // 
             // PerimetrTextbox
             // 
+<<<<<<< HEAD
             this.PerimetrTextbox.Location = new System.Drawing.Point(571, 61);
+=======
+            this.PerimetrTextbox.Location = new System.Drawing.Point(417, 150);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.PerimetrTextbox.Name = "PerimetrTextbox";
             this.PerimetrTextbox.Size = new System.Drawing.Size(54, 20);
             this.PerimetrTextbox.TabIndex = 29;
@@ -217,9 +258,15 @@
             this.sides_flowLayoutPanel.Controls.Add(this.flowLayoutPanel2);
             this.sides_flowLayoutPanel.Controls.Add(this.flowLayoutPanel3);
             this.sides_flowLayoutPanel.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
+<<<<<<< HEAD
             this.sides_flowLayoutPanel.Location = new System.Drawing.Point(385, 195);
             this.sides_flowLayoutPanel.Name = "sides_flowLayoutPanel";
             this.sides_flowLayoutPanel.Size = new System.Drawing.Size(189, 169);
+=======
+            this.sides_flowLayoutPanel.Location = new System.Drawing.Point(385, 32);
+            this.sides_flowLayoutPanel.Name = "sides_flowLayoutPanel";
+            this.sides_flowLayoutPanel.Size = new System.Drawing.Size(168, 118);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.sides_flowLayoutPanel.TabIndex = 33;
             this.sides_flowLayoutPanel.WrapContents = false;
             // 
@@ -294,9 +341,15 @@
             this.flowLayoutPanel4.Controls.Add(this.flowLayoutPanel6);
             this.flowLayoutPanel4.Controls.Add(this.flowLayoutPanel7);
             this.flowLayoutPanel4.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
+<<<<<<< HEAD
             this.flowLayoutPanel4.Location = new System.Drawing.Point(580, 195);
             this.flowLayoutPanel4.Name = "flowLayoutPanel4";
             this.flowLayoutPanel4.Size = new System.Drawing.Size(205, 169);
+=======
+            this.flowLayoutPanel4.Location = new System.Drawing.Point(559, 32);
+            this.flowLayoutPanel4.Name = "flowLayoutPanel4";
+            this.flowLayoutPanel4.Size = new System.Drawing.Size(182, 118);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.flowLayoutPanel4.TabIndex = 36;
             // 
             // flowLayoutPanel5
@@ -382,7 +435,11 @@
             // 
             // Redraw_Button
             // 
+<<<<<<< HEAD
             this.Redraw_Button.Location = new System.Drawing.Point(410, 153);
+=======
+            this.Redraw_Button.Location = new System.Drawing.Point(653, 341);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.Redraw_Button.Name = "Redraw_Button";
             this.Redraw_Button.Size = new System.Drawing.Size(88, 23);
             this.Redraw_Button.TabIndex = 37;
@@ -392,7 +449,11 @@
             // 
             // Calculate
             // 
+<<<<<<< HEAD
             this.Calculate.Location = new System.Drawing.Point(629, 153);
+=======
+            this.Calculate.Location = new System.Drawing.Point(559, 341);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.Calculate.Name = "Calculate";
             this.Calculate.Size = new System.Drawing.Size(88, 23);
             this.Calculate.TabIndex = 38;
@@ -400,6 +461,7 @@
             this.Calculate.UseVisualStyleBackColor = true;
             this.Calculate.Click += new System.EventHandler(this.Calculate_Click);
             // 
+<<<<<<< HEAD
             // sideName_comboBox
             // 
             this.sideName_comboBox.FormattingEnabled = true;
@@ -411,13 +473,90 @@
             this.sideName_comboBox.Name = "sideName_comboBox";
             this.sideName_comboBox.Size = new System.Drawing.Size(121, 21);
             this.sideName_comboBox.TabIndex = 39;
+=======
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(394, 231);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(16, 13);
+            this.label1.TabIndex = 42;
+            this.label1.Text = "r=";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(391, 205);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(21, 13);
+            this.label2.TabIndex = 41;
+            this.label2.Text = "R=";
+            // 
+            // SmallRadius_textBox
+            // 
+            this.SmallRadius_textBox.Location = new System.Drawing.Point(416, 228);
+            this.SmallRadius_textBox.Name = "SmallRadius_textBox";
+            this.SmallRadius_textBox.Size = new System.Drawing.Size(53, 20);
+            this.SmallRadius_textBox.TabIndex = 40;
+            // 
+            // LargeRadius_textBox
+            // 
+            this.LargeRadius_textBox.Location = new System.Drawing.Point(416, 202);
+            this.LargeRadius_textBox.Name = "LargeRadius_textBox";
+            this.LargeRadius_textBox.Size = new System.Drawing.Size(54, 20);
+            this.LargeRadius_textBox.TabIndex = 39;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(491, 231);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(29, 13);
+            this.label3.TabIndex = 46;
+            this.label3.Text = "S(r)=";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(486, 205);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(34, 13);
+            this.label5.TabIndex = 45;
+            this.label5.Text = "S(R)=";
+            // 
+            // AreaOfSmallCircle_textBox
+            // 
+            this.AreaOfSmallCircle_textBox.Location = new System.Drawing.Point(526, 228);
+            this.AreaOfSmallCircle_textBox.Name = "AreaOfSmallCircle_textBox";
+            this.AreaOfSmallCircle_textBox.Size = new System.Drawing.Size(53, 20);
+            this.AreaOfSmallCircle_textBox.TabIndex = 44;
+            // 
+            // AreaOfBigCircle_textBox
+            // 
+            this.AreaOfBigCircle_textBox.Location = new System.Drawing.Point(526, 202);
+            this.AreaOfBigCircle_textBox.Name = "AreaOfBigCircle_textBox";
+            this.AreaOfBigCircle_textBox.Size = new System.Drawing.Size(54, 20);
+            this.AreaOfBigCircle_textBox.TabIndex = 43;
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             // 
             // TriangleForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(793, 375);
             this.Controls.Add(this.sideName_comboBox);
+=======
+            this.ClientSize = new System.Drawing.Size(759, 378);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.AreaOfSmallCircle_textBox);
+            this.Controls.Add(this.AreaOfBigCircle_textBox);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.SmallRadius_textBox);
+            this.Controls.Add(this.LargeRadius_textBox);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.Controls.Add(this.Calculate);
             this.Controls.Add(this.Redraw_Button);
             this.Controls.Add(this.flowLayoutPanel4);
@@ -428,12 +567,15 @@
             this.Controls.Add(this.AreaTextbox);
             this.Controls.Add(this.PerimetrTextbox);
             this.Controls.Add(this.label8);
+<<<<<<< HEAD
             this.Controls.Add(this.AddBisector_Button);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.AddMedian_Button);
             this.Controls.Add(this.AddHight_Button);
             this.Controls.Add(this.checkBox4);
             this.Controls.Add(this.checkBox3);
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
             this.Controls.Add(this.pictureBox);
             this.Name = "TriangleForm";
             this.Text = "Triangle";
@@ -460,12 +602,15 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pictureBox;
+<<<<<<< HEAD
         private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.CheckBox checkBox4;
         private System.Windows.Forms.Button AddHight_Button;
         private System.Windows.Forms.Button AddMedian_Button;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button AddBisector_Button;
+=======
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox AB_Side_textBox;
@@ -494,7 +639,18 @@
         private System.Windows.Forms.TextBox BAC_Angle_textBox;
         private System.Windows.Forms.Button Redraw_Button;
         private System.Windows.Forms.Button Calculate;
+<<<<<<< HEAD
         private System.Windows.Forms.ComboBox sideName_comboBox;
+=======
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox SmallRadius_textBox;
+        private System.Windows.Forms.TextBox LargeRadius_textBox;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox AreaOfSmallCircle_textBox;
+        private System.Windows.Forms.TextBox AreaOfBigCircle_textBox;
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
     }
 }
 

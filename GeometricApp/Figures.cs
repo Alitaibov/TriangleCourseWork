@@ -210,7 +210,11 @@ namespace GeometricApp
         /// <returns></returns>
         private double CircumCircleRadius()
         {
+<<<<<<< HEAD
             return sides[0] * sides[1] * sides[2] /4 * GetArea;
+=======
+            return (sides[0] * sides[1] * sides[2]) / (4*GetArea);
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
         }
         /// <summary>
         /// Вычисление биссектриссы
@@ -223,6 +227,14 @@ namespace GeometricApp
             int b = GetSidesNumbers(i)[1];
             return (2 * Math.Cos(angles[i] / 2) * sides[a] * sides[b]) / (sides[a] + sides[b]);
         }
+<<<<<<< HEAD
+=======
+
+        private double AreaOfBigCircle(double radius)
+        {
+            return Math.PI * radius * radius;
+        }
+>>>>>>> 44823624f50454b50bd6a3f9d1c4812633b3142c
         /// <summary>
         /// 
         /// </summary>
