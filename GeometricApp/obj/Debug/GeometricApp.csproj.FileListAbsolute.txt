@@ -1,0 +1,37 @@
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\bin\Debug\GeometricApp.exe.config
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\bin\Debug\GeometricApp.exe
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\bin\Debug\GeometricApp.pdb
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.Form1.resources
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.Properties.Resources.resources
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.csproj.GenerateResource.Cache
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.exe
+c:\users\хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.pdb
+C:\Users\Хомяк\Documents\Visual Studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.csprojResolveAssemblyReference.cache
+C:\Users\Хомяк\documents\visual studio 2015\Projects\GeometricApp\GeometricApp\obj\Debug\GeometricApp.ForTriangle.resources
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.exe.config
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.exe
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.pdb
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.exe
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.pdb
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csprojResolveAssemblyReference.cache
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.Properties.Resources.resources
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\obj\Debug\VisualTriangle.TriangleForm.resources
+C:\Users\crash_000\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csproj.GenerateResource.Cache
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.exe.config
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.exe
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.pdb
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.exe
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.pdb
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csprojResolveAssemblyReference.cache
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.Properties.Resources.resources
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.TriangleForm.resources
+C:\Users\Хомяк\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csproj.GenerateResource.Cache
+C:\Users\Женя\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.exe.config
+C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.exe
+C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.pdb
+C:\Users\Женя\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.exe
+C:\Users\Женя\Desktop\Triangle\GeometricApp\bin\Debug\GeometricApp.pdb
+C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.Properties.Resources.resources
+C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.TriangleForm.resources
+C:\Users\Женя\Desktop\Triangle\GeometricApp\obj\Debug\GeometricApp.csproj.GenerateResource.Cache
